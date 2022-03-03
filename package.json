@@ -1,0 +1,33 @@
+{
+
+  "name": "twitch-için-chatbot",
+
+  "version": "0.0.3",
+
+  "description": "Twitch için chata oto cevap veren bot.",
+
+  "main": "zwo.js",
+
+  "scripts": {
+
+    "start": "node ."
+
+  },
+
+  "author": "Zwo",
+
+  "license": "MIT",
+
+  "dependencies": {
+
+    "tmi.js": "^1.8.5"
+
+  },
+
+"engines": {
+
+    "node": "12.x"
+
+ }
+
+}
